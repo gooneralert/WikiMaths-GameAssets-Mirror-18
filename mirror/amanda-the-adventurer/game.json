@@ -1,0 +1,75 @@
+{
+  "slug": "amanda-the-adventurer",
+  "title": "Amanda The Adventurer",
+  "type": "HTML",
+  "developer": "MANGLEDmaw Games",
+  "description": "Having inherited their Aunt Kate's house, Riley Park starts exploring what the reclusive woman left behind. In the attic, Riley is surprised to find a stack of VHS tapes next to an old TV set. The tapes seem to be episodes of an early 2000's era children's cartoon they have never seen before. Intrigued, Riley pops the first tape into the VCR. Not the highest budget production from the looks of it. It appears to have been made locally and features a little girl named Amanda and her loyal yet shy best friend, Wooly the Sheep. While the episode appears charming and simple on the surface, an uneasiness starts to settle in as Riley realizes that Amanda and Wooly seem to be communicating directly through the television set. A gnawing feeling in the back of their mind presses them to stop, but Riley is compelled to continue watching the tapes. It's almost as if Amanda needs something, and Riley becomes fascinated with finding out what that something may be.",
+  "tags": [
+    "Horror",
+    "Point & Click",
+    "Puzzle",
+    "Adventure",
+    "Mystery",
+    "Indie"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "ff25861b-45db-48d9-a447-78bb65ebb74d",
+  "sourceVersion": "1",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/ff25861b-45db-48d9-a447-78bb65ebb74d/1/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/ff25861b-45db-48d9-a447-78bb65ebb74d/1/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/ff25861b-45db-48d9-a447-78bb65ebb74d/1/index.html",
+  "status": "done",
+  "sizeBytes": 1408040889,
+  "assetCount": 156,
+  "known404": [
+    "https://playobsidian.com/cdn/assets/html/ff25861b-45db-48d9-a447-78bb65ebb74d/1/Build/Build.wasm",
+    "https://playobsidian.com/cdn/assets/html/ff25861b-45db-48d9-a447-78bb65ebb74d/1/Build/Build.data",
+    "https://playobsidian.com/Build.framework.js",
+    "https://playobsidian.com/Build.loader.js"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/ff25861b-45db-48d9-a447-78bb65ebb74d/1/Build/Build.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/ff25861b-45db-48d9-a447-78bb65ebb74d/1/Build/Build.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/ff25861b-45db-48d9-a447-78bb65ebb74d/1/Build/Build.data",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/ff25861b-45db-48d9-a447-78bb65ebb74d/1/Build/Build.data",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/Build.framework.js",
+      "error": "HTTP 404 for https://playobsidian.com/Build.framework.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/Build.loader.js",
+      "error": "HTTP 404 for https://playobsidian.com/Build.loader.js",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T10:58:02.887Z",
+  "verifiedAt": "2026-11-16T12:51:34.391Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 1,
+    "title": "Unity WebGL Player | Amanda The Adventurer",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.9322,
+    "rendered": true
+  }
+}
