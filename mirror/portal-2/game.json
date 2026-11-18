@@ -1,0 +1,1257 @@
+{
+  "slug": "portal-2",
+  "title": "Portal 2",
+  "type": "HTML",
+  "developer": "Valve",
+  "description": "Many years after \"Portal,\" Chell reawakens at Aperture Science and tries to stop GLaDOS once again with the help of Wheatley, who has his own plans for the historical facility.",
+  "tags": [
+    "3D",
+    "Co-Op",
+    "First-Person",
+    "Physics",
+    "Puzzle",
+    "Sci-Fi"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "a00b13bd-5a07-43f5-9c42-edc4addf3f58",
+  "sourceVersion": "1",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/a00b13bd-5a07-43f5-9c42-edc4addf3f58/1/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/a00b13bd-5a07-43f5-9c42-edc4addf3f58/1/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/a00b13bd-5a07-43f5-9c42-edc4addf3f58/1/index.html",
+  "status": "done",
+  "sizeBytes": 1457220957,
+  "assetCount": 64,
+  "known404": [
+    "https://playobsidian.com/cdn/assets/html/a00b13bd-5a07-43f5-9c42-edc4addf3f58/1/manifest.json",
+    "https://playobsidian.com/cdn/assets/html/a00b13bd-5a07-43f5-9c42-edc4addf3f58/1/video.txt",
+    "https://playobsidian.com/gamestate.txt",
+    "https://playobsidian.com/cdn/assets/html/a00b13bd-5a07-43f5-9c42-edc4addf3f58/1/.data",
+    "https://playobsidian.com/idbfs/gamestate.txt",
+    "https://playobsidian.com/cfg/video.txt",
+    "https://playobsidian.com/cdn/assets/html/a00b13bd-5a07-43f5-9c42-edc4addf3f58/1/GOT.mem",
+    "https://playobsidian.com/portal2/resource/gameui_english.txt",
+    "https://playobsidian.com/portal2/maplist.txt",
+    "https://playobsidian.com/portal2/matchmodes.txt",
+    "https://playobsidian.com/portal2/gameinfo.txt",
+    "https://playobsidian.com/portal2/splitscreen_config.txt",
+    "https://playobsidian.com/portal2/mapcycle.txt",
+    "https://playobsidian.com/portal2/stats.txt",
+    "https://playobsidian.com/portal2/gameinfo_srgb.txt",
+    "https://playobsidian.com/portal2/resource/basemodui_english.txt",
+    "https://playobsidian.com/portal2/resource/basemodui_latam.txt",
+    "https://playobsidian.com/portal2/resource/captioning_colors.txt",
+    "https://playobsidian.com/portal2/resource/chat_latam.txt",
+    "https://playobsidian.com/portal2/workshop_log.txt",
+    "https://playobsidian.com/portal2/resource/closecaption_latam.txt",
+    "https://playobsidian.com/portal2/resource/game-icon.bmp",
+    "https://playobsidian.com/portal2/resource/basemodui_vietnamese.txt",
+    "https://playobsidian.com/portal2/resource/gameui_latam.txt",
+    "https://playobsidian.com/portal2/resource/chat_english.txt",
+    "https://playobsidian.com/portal2/resource/game_1bpp.ico",
+    "https://playobsidian.com/portal2/resource/closecaption_english.txt",
+    "https://playobsidian.com/portal2/resource/korean_frequency.txt",
+    "https://playobsidian.com/portal2/resource/mp3player_english.txt",
+    "https://playobsidian.com/portal2/resource/mp3settings.txt",
+    "https://playobsidian.com/portal2/resource/portal2_latam.txt",
+    "https://playobsidian.com/portal2/resource/portal2_vietnamese.txt",
+    "https://playobsidian.com/portal2/resource/schinese_frequency.txt",
+    "https://playobsidian.com/portal2/resource/japanese_frequency.txt",
+    "https://playobsidian.com/portal2/resource/subtitles_latam.txt",
+    "https://playobsidian.com/portal2/resource/portal2_english.txt",
+    "https://playobsidian.com/portal2/resource/gameui_vietnamese.txt",
+    "https://playobsidian.com/portal2/resource/toolactbusy_english.txt",
+    "https://playobsidian.com/portal2/resource/toolcommedit_english.txt",
+    "https://playobsidian.com/portal2/resource/toolfoundry_english.txt",
+    "https://playobsidian.com/portal2/resource/subtitles_english.txt",
+    "https://playobsidian.com/portal2/resource/toolpet_english.txt",
+    "https://playobsidian.com/portal2/resource/toolsoundedit_english.txt",
+    "https://playobsidian.com/portal2/resource/tchinese_frequency.txt",
+    "https://playobsidian.com/portal2/resource/toolvmt_english.txt",
+    "https://playobsidian.com/portal2/resource/valve_english.txt",
+    "https://playobsidian.com/portal2/resource/toolshared_english.txt",
+    "https://playobsidian.com/portal2/resource/valve_latam.txt",
+    "https://playobsidian.com/portal2/resource/toolvcdblock_english.txt",
+    "https://playobsidian.com/portal2/resource/cheaptitles/sp_a4_finale4_b1_captions.txt",
+    "https://playobsidian.com/portal2/resource/cheaptitles/sp_a1_intro1_b1_captions.txt",
+    "https://playobsidian.com/portal2/resource/cheaptitles/credits_song_captions.txt",
+    "https://playobsidian.com/portal2/resource/toolvguieditor_english.txt",
+    "https://playobsidian.com/portal2/resource/cheaptitles/sp_a4_finale4_b2_captions.txt",
+    "https://playobsidian.com/portal2/scripts/bonus_maps_manifest.txt",
+    "https://playobsidian.com/portal2/scripts/actbusy.txt",
+    "https://playobsidian.com/portal2/scripts/actremap.txt",
+    "https://playobsidian.com/portal2/scripts/chapterbackgrounds.txt",
+    "https://playobsidian.com/portal2/scripts/bugreport_mapnumber.txt",
+    "https://playobsidian.com/portal2/scripts/bugreporter_defaults.txt",
+    "https://playobsidian.com/portal2/scripts/damageinfo_turret.txt",
+    "https://playobsidian.com/portal2/scripts/decals_subrect.txt",
+    "https://playobsidian.com/portal2/scripts/dsp_presets.txt",
+    "https://playobsidian.com/portal2/scripts/credits.txt",
+    "https://playobsidian.com/portal2/scripts/game_sounds_animation.txt",
+    "https://playobsidian.com/portal2/scripts/game_sounds.txt",
+    "https://playobsidian.com/portal2/scripts/extras.txt",
+    "https://playobsidian.com/portal2/scripts/game_sounds_ballbot.txt",
+    "https://playobsidian.com/portal2/scripts/game_sounds_announcer_auto_generated.txt",
+    "https://playobsidian.com/portal2/scripts/game_sounds_auto_generated.txt",
+    "https://playobsidian.com/portal2/scripts/game_sounds_cores_auto_generated.txt",
+    "https://playobsidian.com/portal2/scripts/game_sounds_cave_auto_generated.txt",
+    "https://playobsidian.com/portal2/scripts/game_sounds_br_world.txt",
+    "https://playobsidian.com/portal2/scripts/game_sounds_manifest.txt",
+    "https://playobsidian.com/portal2/scripts/game_sounds_eggbot.txt",
+    "https://playobsidian.com/portal2/scripts/game_sounds_music_a1.txt",
+    "https://playobsidian.com/portal2/scripts/game_sounds_music.txt",
+    "https://playobsidian.com/portal2/scripts/gameuianimations.txt",
+    "https://playobsidian.com/portal2/scripts/game_sounds_music_a4.txt",
+    "https://playobsidian.com/portal2/scripts/game_sounds_music_a3.txt",
+    "https://playobsidian.com/portal2/scripts/game_sounds_music_a2.txt",
+    "https://playobsidian.com/portal2/scripts/game_sounds_npc.txt",
+    "https://playobsidian.com/portal2/scripts/game_sounds_music_mp.txt",
+    "https://playobsidian.com/portal2/scripts/game_sounds_nugget.txt",
+    "https://playobsidian.com/portal2/scripts/game_sounds_paint.txt",
+    "https://playobsidian.com/portal2/scripts/game_sounds_physics.txt",
+    "https://playobsidian.com/portal2/scripts/game_sounds_paint_player.txt",
+    "https://playobsidian.com/portal2/scripts/game_sounds_gladosmanual.txt",
+    "https://playobsidian.com/portal2/scripts/game_sounds_portal.txt",
+    "https://playobsidian.com/portal2/scripts/game_sounds_player_portal2.txt",
+    "https://playobsidian.com/portal2/scripts/game_sounds_player.txt",
+    "https://playobsidian.com/portal2/scripts/game_sounds_props_aperture.txt",
+    "https://playobsidian.com/portal2/scripts/game_sounds_sphere03_auto_generated.txt",
+    "https://playobsidian.com/portal2/scripts/game_sounds_scripted_sequence.txt",
+    "https://playobsidian.com/portal2/scripts/game_sounds_taunts_ball.txt",
+    "https://playobsidian.com/portal2/scripts/game_sounds_vfx.txt",
+    "https://playobsidian.com/portal2/scripts/game_sounds_taunts_egg.txt",
+    "https://playobsidian.com/portal2/scripts/game_sounds_ui.txt",
+    "https://playobsidian.com/portal2/scripts/game_sounds_weapons_paintgun.txt",
+    "https://playobsidian.com/portal2/scripts/game_sounds_vo.txt",
+    "https://playobsidian.com/portal2/scripts/game_sounds_weapons_episodic.txt",
+    "https://playobsidian.com/portal2/scripts/global_actors.txt",
+    "https://playobsidian.com/portal2/scripts/game_sounds_weapons_portal.txt",
+    "https://playobsidian.com/portal2/scripts/game_sounds_world.txt",
+    "https://playobsidian.com/portal2/scripts/hudanimations_manifest.txt",
+    "https://playobsidian.com/portal2/scripts/hud_textures.txt",
+    "https://playobsidian.com/portal2/scripts/hudanimations.txt",
+    "https://playobsidian.com/portal2/scripts/instructor_lessons.txt",
+    "https://playobsidian.com/portal2/scripts/game_sounds_turret_auto_generated.txt",
+    "https://playobsidian.com/portal2/scripts/instructor_textures.txt",
+    "https://playobsidian.com/portal2/scripts/level_sounds_aperture.txt",
+    "https://playobsidian.com/portal2/scripts/instructor_texturemanifest.txt",
+    "https://playobsidian.com/portal2/scripts/level_sounds_tempcontent.txt",
+    "https://playobsidian.com/portal2/scripts/level_sounds_escape.txt",
+    "https://playobsidian.com/portal2/scripts/level_sounds_music_portal.txt",
+    "https://playobsidian.com/portal2/scripts/mapautocompile.txt",
+    "https://playobsidian.com/portal2/scripts/npc_sounds_android.txt",
+    "https://playobsidian.com/portal2/scripts/mod_options.360.txt",
+    "https://playobsidian.com/portal2/scripts/mod_lessons.txt",
+    "https://playobsidian.com/portal2/scripts/mod_textures.txt",
+    "https://playobsidian.com/portal2/scripts/npc_sounds_combine_ball.txt",
+    "https://playobsidian.com/portal2/scripts/npc_sounds_combine_ball_episodic.txt",
+    "https://playobsidian.com/portal2/scripts/npc_sounds_aperture_ai.txt",
+    "https://playobsidian.com/portal2/scripts/npc_sounds_chicken.txt",
+    "https://playobsidian.com/portal2/scripts/npc_sounds_hover_turret.txt",
+    "https://playobsidian.com/portal2/scripts/npc_sounds_energy_ball.txt",
+    "https://playobsidian.com/portal2/scripts/npc_sounds_glados_cores.txt",
+    "https://playobsidian.com/portal2/scripts/npc_sounds_rocket_turret.txt",
+    "https://playobsidian.com/portal2/scripts/npc_sounds_turret.txt",
+    "https://playobsidian.com/portal2/scripts/npc_sounds_zombie_aperture.txt",
+    "https://playobsidian.com/portal2/scripts/propdata.txt",
+    "https://playobsidian.com/portal2/scripts/radialmenutaunt.txt",
+    "https://playobsidian.com/portal2/scripts/signifier_textures.txt",
+    "https://playobsidian.com/portal2/scripts/npc_sounds_mannequin.txt",
+    "https://playobsidian.com/portal2/scripts/npc_sounds_turret_portal.txt",
+    "https://playobsidian.com/portal2/scripts/soundscapes_br_train_interior.txt",
+    "https://playobsidian.com/portal2/scripts/soundscapes_bts.txt",
+    "https://playobsidian.com/portal2/scripts/soundscapes_chapter_4.txt",
+    "https://playobsidian.com/portal2/scripts/radialmenu.txt",
+    "https://playobsidian.com/portal2/scripts/soundmixers.txt",
+    "https://playobsidian.com/portal2/scripts/soundscapes_destruction.txt",
+    "https://playobsidian.com/portal2/scripts/soundscapes_industrial.txt",
+    "https://playobsidian.com/portal2/scripts/soundscapes_escape_portal.txt",
+    "https://playobsidian.com/portal2/scripts/soundscapes_mp_coop.txt",
+    "https://playobsidian.com/portal2/scripts/soundscapes_paint.txt",
+    "https://playobsidian.com/portal2/scripts/soundscapes_manifest.txt",
+    "https://playobsidian.com/portal2/scripts/soundscapes_partial_destruction.txt",
+    "https://playobsidian.com/portal2/scripts/soundscapes_pressdemo.txt",
+    "https://playobsidian.com/portal2/scripts/soundscapes_reconstruction.txt",
+    "https://playobsidian.com/portal2/scripts/soundscapes_tempcontent.txt",
+    "https://playobsidian.com/portal2/scripts/soundscapes_sabotage.txt",
+    "https://playobsidian.com/portal2/scripts/soundscapes_underground.txt",
+    "https://playobsidian.com/portal2/scripts/soundscapes_testchmb_portal.txt",
+    "https://playobsidian.com/portal2/scripts/soundscapes_vegetation.txt",
+    "https://playobsidian.com/portal2/scripts/soundscapes_test_chambers.txt",
+    "https://playobsidian.com/portal2/scripts/surfaceproperties_manifest.txt",
+    "https://playobsidian.com/portal2/scripts/surfaceproperties_portal.txt",
+    "https://playobsidian.com/portal2/scripts/sound_operator_stacks.txt",
+    "https://playobsidian.com/portal2/scripts/surfaceproperties.txt",
+    "https://playobsidian.com/portal2/scripts/surfaceproperties_portal2.txt",
+    "https://playobsidian.com/portal2/scripts/titles.txt",
+    "https://playobsidian.com/portal2/scripts/vgui_screens.txt",
+    "https://playobsidian.com/portal2/scripts/weapon_alyxgun.txt",
+    "https://playobsidian.com/portal2/scripts/weapon_citizensuitcase.txt",
+    "https://playobsidian.com/portal2/scripts/weapon_annabelle.txt",
+    "https://playobsidian.com/portal2/scripts/weapon_citizenpackage.txt",
+    "https://playobsidian.com/portal2/scripts/weapon_crossbow.txt",
+    "https://playobsidian.com/portal2/scripts/weapon_hopwire.txt",
+    "https://playobsidian.com/portal2/scripts/weapon_portalgun.txt",
+    "https://playobsidian.com/portal2/scripts/weapon_cubemap.txt",
+    "https://playobsidian.com/portal2/scripts/weapon_manifest.txt",
+    "https://playobsidian.com/portal2/scripts/weapon_promo_antenna_egg.txt",
+    "https://playobsidian.com/portal2/scripts/weapon_promo_helmet_ball.txt",
+    "https://playobsidian.com/portal2/scripts/weapon_promo_antenna_ball.txt",
+    "https://playobsidian.com/portal2/scripts/vscripts/coop/coop_lightboard_icons.txt",
+    "https://playobsidian.com/portal2/scripts/vscripts/transitions/lightboard_startup_sequences.txt",
+    "https://playobsidian.com/portal2/scripts/vscripts/transitions/sp_lightboard_icons.txt",
+    "https://playobsidian.com/portal2/scripts/vehicles/player_down.txt",
+    "https://playobsidian.com/portal2/scripts/vehicles/br_player_view.txt",
+    "https://playobsidian.com/portal2/scripts/vehicles/player_ending.txt",
+    "https://playobsidian.com/portal2/scripts/talker/eggbot.txt",
+    "https://playobsidian.com/portal2/scripts/talker/response_criteria.txt",
+    "https://playobsidian.com/portal2/scripts/weapon_promo_helmet_egg.txt",
+    "https://playobsidian.com/portal2/scripts/vehicles/br_player_look.txt",
+    "https://playobsidian.com/portal2/scripts/talker/ballbot.txt",
+    "https://playobsidian.com/portal2/scripts/surveys/test_survey.txt",
+    "https://playobsidian.com/portal2/scripts/surveys/end_puzzle_survey.txt",
+    "https://playobsidian.com/portal2/scripts/talker/response_rules.txt",
+    "https://playobsidian.com/portal2/cfg/moddefaults.txt",
+    "https://playobsidian.com/portal2/cfg/model_substitution.txt",
+    "https://playobsidian.com/portal2/cfg/moddefaults_mac.txt",
+    "https://playobsidian.com/portal2/scripts/surveys/vista_generic.txt",
+    "https://playobsidian.com/platform/resource/platform_english.txt",
+    "https://playobsidian.com/platform/resource/vgui_english.txt",
+    "https://playobsidian.com/portal2/particles/particles_manifest.txt",
+    "https://playobsidian.com/platform/resource/linux_fonts/dejavusans-bold.ttf",
+    "https://playobsidian.com/platform/resource/linux_fonts/dejavusans.ttf",
+    "https://playobsidian.com/platform/resource/linux_fonts/liberationmono-regular.ttf",
+    "https://playobsidian.com/platform/resource/linux_fonts/dejavusans-boldoblique.ttf",
+    "https://playobsidian.com/platform/resource/linux_fonts/dejavusans-oblique.ttf",
+    "https://playobsidian.com/platform/resource/linux_fonts/liberationsans-bold.ttf",
+    "https://playobsidian.com/platform/resource/linux_fonts/liberationsans-regular.ttf",
+    "https://playobsidian.com/platform/vgui/fonts/marlett.ttf",
+    "https://playobsidian.com/platform/vgui/fonts/times.ttf",
+    "https://playobsidian.com/platform/scripts/plugin_animations.txt",
+    "https://playobsidian.com/portal2/media/startupvids.txt"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/a00b13bd-5a07-43f5-9c42-edc4addf3f58/1/manifest.json",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/a00b13bd-5a07-43f5-9c42-edc4addf3f58/1/manifest.json",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/a00b13bd-5a07-43f5-9c42-edc4addf3f58/1/video.txt",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/a00b13bd-5a07-43f5-9c42-edc4addf3f58/1/video.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/gamestate.txt",
+      "error": "HTTP 404 for https://playobsidian.com/gamestate.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/a00b13bd-5a07-43f5-9c42-edc4addf3f58/1/.data",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/a00b13bd-5a07-43f5-9c42-edc4addf3f58/1/.data",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/idbfs/gamestate.txt",
+      "error": "HTTP 404 for https://playobsidian.com/idbfs/gamestate.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cfg/video.txt",
+      "error": "HTTP 404 for https://playobsidian.com/cfg/video.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/a00b13bd-5a07-43f5-9c42-edc4addf3f58/1/GOT.mem",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/a00b13bd-5a07-43f5-9c42-edc4addf3f58/1/GOT.mem",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/resource/gameui_english.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/resource/gameui_english.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/maplist.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/maplist.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/matchmodes.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/matchmodes.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/gameinfo.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/gameinfo.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/splitscreen_config.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/splitscreen_config.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/mapcycle.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/mapcycle.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/stats.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/stats.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/gameinfo_srgb.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/gameinfo_srgb.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/resource/basemodui_english.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/resource/basemodui_english.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/resource/basemodui_latam.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/resource/basemodui_latam.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/resource/captioning_colors.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/resource/captioning_colors.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/resource/chat_latam.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/resource/chat_latam.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/workshop_log.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/workshop_log.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/resource/closecaption_latam.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/resource/closecaption_latam.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/resource/game-icon.bmp",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/resource/game-icon.bmp",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/resource/basemodui_vietnamese.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/resource/basemodui_vietnamese.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/resource/gameui_latam.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/resource/gameui_latam.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/resource/chat_english.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/resource/chat_english.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/resource/game_1bpp.ico",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/resource/game_1bpp.ico",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/resource/closecaption_english.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/resource/closecaption_english.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/resource/korean_frequency.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/resource/korean_frequency.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/resource/mp3player_english.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/resource/mp3player_english.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/resource/mp3settings.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/resource/mp3settings.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/resource/portal2_latam.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/resource/portal2_latam.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/resource/portal2_vietnamese.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/resource/portal2_vietnamese.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/resource/schinese_frequency.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/resource/schinese_frequency.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/resource/japanese_frequency.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/resource/japanese_frequency.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/resource/subtitles_latam.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/resource/subtitles_latam.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/resource/portal2_english.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/resource/portal2_english.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/resource/gameui_vietnamese.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/resource/gameui_vietnamese.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/resource/toolactbusy_english.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/resource/toolactbusy_english.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/resource/toolcommedit_english.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/resource/toolcommedit_english.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/resource/toolfoundry_english.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/resource/toolfoundry_english.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/resource/subtitles_english.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/resource/subtitles_english.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/resource/toolpet_english.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/resource/toolpet_english.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/resource/toolsoundedit_english.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/resource/toolsoundedit_english.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/resource/tchinese_frequency.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/resource/tchinese_frequency.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/resource/toolvmt_english.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/resource/toolvmt_english.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/resource/valve_english.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/resource/valve_english.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/resource/toolshared_english.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/resource/toolshared_english.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/resource/valve_latam.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/resource/valve_latam.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/resource/toolvcdblock_english.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/resource/toolvcdblock_english.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/resource/cheaptitles/sp_a4_finale4_b1_captions.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/resource/cheaptitles/sp_a4_finale4_b1_captions.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/resource/cheaptitles/sp_a1_intro1_b1_captions.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/resource/cheaptitles/sp_a1_intro1_b1_captions.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/resource/cheaptitles/credits_song_captions.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/resource/cheaptitles/credits_song_captions.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/resource/toolvguieditor_english.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/resource/toolvguieditor_english.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/resource/cheaptitles/sp_a4_finale4_b2_captions.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/resource/cheaptitles/sp_a4_finale4_b2_captions.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/bonus_maps_manifest.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/bonus_maps_manifest.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/actbusy.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/actbusy.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/actremap.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/actremap.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/chapterbackgrounds.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/chapterbackgrounds.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/bugreport_mapnumber.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/bugreport_mapnumber.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/bugreporter_defaults.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/bugreporter_defaults.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/damageinfo_turret.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/damageinfo_turret.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/decals_subrect.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/decals_subrect.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/dsp_presets.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/dsp_presets.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/credits.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/credits.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/game_sounds_animation.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/game_sounds_animation.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/game_sounds.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/game_sounds.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/extras.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/extras.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/game_sounds_ballbot.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/game_sounds_ballbot.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/game_sounds_announcer_auto_generated.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/game_sounds_announcer_auto_generated.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/game_sounds_auto_generated.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/game_sounds_auto_generated.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/game_sounds_cores_auto_generated.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/game_sounds_cores_auto_generated.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/game_sounds_cave_auto_generated.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/game_sounds_cave_auto_generated.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/game_sounds_br_world.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/game_sounds_br_world.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/game_sounds_manifest.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/game_sounds_manifest.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/game_sounds_eggbot.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/game_sounds_eggbot.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/game_sounds_music_a1.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/game_sounds_music_a1.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/game_sounds_music.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/game_sounds_music.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/gameuianimations.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/gameuianimations.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/game_sounds_music_a4.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/game_sounds_music_a4.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/game_sounds_music_a3.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/game_sounds_music_a3.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/game_sounds_music_a2.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/game_sounds_music_a2.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/game_sounds_npc.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/game_sounds_npc.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/game_sounds_music_mp.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/game_sounds_music_mp.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/game_sounds_nugget.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/game_sounds_nugget.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/game_sounds_paint.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/game_sounds_paint.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/game_sounds_physics.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/game_sounds_physics.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/game_sounds_paint_player.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/game_sounds_paint_player.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/game_sounds_gladosmanual.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/game_sounds_gladosmanual.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/game_sounds_portal.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/game_sounds_portal.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/game_sounds_player_portal2.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/game_sounds_player_portal2.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/game_sounds_player.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/game_sounds_player.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/game_sounds_props_aperture.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/game_sounds_props_aperture.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/game_sounds_sphere03_auto_generated.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/game_sounds_sphere03_auto_generated.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/game_sounds_scripted_sequence.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/game_sounds_scripted_sequence.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/game_sounds_taunts_ball.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/game_sounds_taunts_ball.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/game_sounds_vfx.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/game_sounds_vfx.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/game_sounds_taunts_egg.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/game_sounds_taunts_egg.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/game_sounds_ui.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/game_sounds_ui.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/game_sounds_weapons_paintgun.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/game_sounds_weapons_paintgun.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/game_sounds_vo.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/game_sounds_vo.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/game_sounds_weapons_episodic.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/game_sounds_weapons_episodic.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/global_actors.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/global_actors.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/game_sounds_weapons_portal.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/game_sounds_weapons_portal.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/game_sounds_world.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/game_sounds_world.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/hudanimations_manifest.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/hudanimations_manifest.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/hud_textures.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/hud_textures.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/hudanimations.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/hudanimations.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/instructor_lessons.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/instructor_lessons.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/game_sounds_turret_auto_generated.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/game_sounds_turret_auto_generated.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/instructor_textures.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/instructor_textures.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/level_sounds_aperture.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/level_sounds_aperture.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/instructor_texturemanifest.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/instructor_texturemanifest.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/level_sounds_tempcontent.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/level_sounds_tempcontent.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/level_sounds_escape.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/level_sounds_escape.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/level_sounds_music_portal.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/level_sounds_music_portal.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/mapautocompile.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/mapautocompile.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/npc_sounds_android.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/npc_sounds_android.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/mod_options.360.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/mod_options.360.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/mod_lessons.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/mod_lessons.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/mod_textures.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/mod_textures.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/npc_sounds_combine_ball.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/npc_sounds_combine_ball.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/npc_sounds_combine_ball_episodic.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/npc_sounds_combine_ball_episodic.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/npc_sounds_aperture_ai.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/npc_sounds_aperture_ai.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/npc_sounds_chicken.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/npc_sounds_chicken.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/npc_sounds_hover_turret.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/npc_sounds_hover_turret.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/npc_sounds_energy_ball.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/npc_sounds_energy_ball.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/npc_sounds_glados_cores.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/npc_sounds_glados_cores.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/npc_sounds_rocket_turret.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/npc_sounds_rocket_turret.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/npc_sounds_turret.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/npc_sounds_turret.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/npc_sounds_zombie_aperture.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/npc_sounds_zombie_aperture.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/propdata.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/propdata.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/radialmenutaunt.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/radialmenutaunt.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/signifier_textures.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/signifier_textures.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/npc_sounds_mannequin.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/npc_sounds_mannequin.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/npc_sounds_turret_portal.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/npc_sounds_turret_portal.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/soundscapes_br_train_interior.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/soundscapes_br_train_interior.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/soundscapes_bts.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/soundscapes_bts.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/soundscapes_chapter_4.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/soundscapes_chapter_4.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/radialmenu.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/radialmenu.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/soundmixers.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/soundmixers.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/soundscapes_destruction.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/soundscapes_destruction.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/soundscapes_industrial.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/soundscapes_industrial.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/soundscapes_escape_portal.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/soundscapes_escape_portal.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/soundscapes_mp_coop.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/soundscapes_mp_coop.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/soundscapes_paint.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/soundscapes_paint.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/soundscapes_manifest.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/soundscapes_manifest.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/soundscapes_partial_destruction.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/soundscapes_partial_destruction.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/soundscapes_pressdemo.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/soundscapes_pressdemo.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/soundscapes_reconstruction.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/soundscapes_reconstruction.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/soundscapes_tempcontent.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/soundscapes_tempcontent.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/soundscapes_sabotage.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/soundscapes_sabotage.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/soundscapes_underground.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/soundscapes_underground.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/soundscapes_testchmb_portal.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/soundscapes_testchmb_portal.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/soundscapes_vegetation.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/soundscapes_vegetation.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/soundscapes_test_chambers.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/soundscapes_test_chambers.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/surfaceproperties_manifest.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/surfaceproperties_manifest.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/surfaceproperties_portal.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/surfaceproperties_portal.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/sound_operator_stacks.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/sound_operator_stacks.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/surfaceproperties.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/surfaceproperties.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/surfaceproperties_portal2.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/surfaceproperties_portal2.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/titles.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/titles.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/vgui_screens.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/vgui_screens.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/weapon_alyxgun.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/weapon_alyxgun.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/weapon_citizensuitcase.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/weapon_citizensuitcase.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/weapon_annabelle.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/weapon_annabelle.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/weapon_citizenpackage.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/weapon_citizenpackage.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/weapon_crossbow.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/weapon_crossbow.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/weapon_hopwire.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/weapon_hopwire.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/weapon_portalgun.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/weapon_portalgun.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/weapon_cubemap.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/weapon_cubemap.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/weapon_manifest.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/weapon_manifest.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/weapon_promo_antenna_egg.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/weapon_promo_antenna_egg.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/weapon_promo_helmet_ball.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/weapon_promo_helmet_ball.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/weapon_promo_antenna_ball.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/weapon_promo_antenna_ball.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/vscripts/coop/coop_lightboard_icons.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/vscripts/coop/coop_lightboard_icons.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/vscripts/transitions/lightboard_startup_sequences.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/vscripts/transitions/lightboard_startup_sequences.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/vscripts/transitions/sp_lightboard_icons.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/vscripts/transitions/sp_lightboard_icons.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/vehicles/player_down.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/vehicles/player_down.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/vehicles/br_player_view.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/vehicles/br_player_view.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/vehicles/player_ending.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/vehicles/player_ending.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/talker/eggbot.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/talker/eggbot.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/talker/response_criteria.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/talker/response_criteria.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/weapon_promo_helmet_egg.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/weapon_promo_helmet_egg.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/vehicles/br_player_look.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/vehicles/br_player_look.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/talker/ballbot.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/talker/ballbot.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/surveys/test_survey.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/surveys/test_survey.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/surveys/end_puzzle_survey.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/surveys/end_puzzle_survey.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/talker/response_rules.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/talker/response_rules.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/cfg/moddefaults.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/cfg/moddefaults.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/cfg/model_substitution.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/cfg/model_substitution.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/cfg/moddefaults_mac.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/cfg/moddefaults_mac.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/scripts/surveys/vista_generic.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/scripts/surveys/vista_generic.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/platform/resource/platform_english.txt",
+      "error": "HTTP 404 for https://playobsidian.com/platform/resource/platform_english.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/platform/resource/vgui_english.txt",
+      "error": "HTTP 404 for https://playobsidian.com/platform/resource/vgui_english.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/portal2/particles/particles_manifest.txt",
+      "error": "HTTP 404 for https://playobsidian.com/portal2/particles/particles_manifest.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/platform/resource/linux_fonts/dejavusans-bold.ttf",
+      "error": "HTTP 404 for https://playobsidian.com/platform/resource/linux_fonts/dejavusans-bold.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/platform/resource/linux_fonts/dejavusans.ttf",
+      "error": "HTTP 404 for https://playobsidian.com/platform/resource/linux_fonts/dejavusans.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/platform/resource/linux_fonts/liberationmono-regular.ttf",
+      "error": "HTTP 404 for https://playobsidian.com/platform/resource/linux_fonts/liberationmono-regular.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/platform/resource/linux_fonts/dejavusans-boldoblique.ttf",
+      "error": "HTTP 404 for https://playobsidian.com/platform/resource/linux_fonts/dejavusans-boldoblique.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/platform/resource/linux_fonts/dejavusans-oblique.ttf",
+      "error": "HTTP 404 for https://playobsidian.com/platform/resource/linux_fonts/dejavusans-oblique.ttf",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T10:43:24.024Z",
+  "verifiedAt": "2026-11-16T15:56:24.522Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 1,
+    "title": "PORTAL 2 - OpenGL",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 800,
+      "height": 600
+    },
+    "nonBlack": "err:Failed to execute 'getContext' on 'HTMLCanvasElement': Cannot get context from a canvas that has transferred its control to offscreen.",
+    "screenshotNonBlack": 0.6635,
+    "rendered": true
+  }
+}
