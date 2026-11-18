@@ -1,0 +1,18 @@
+{
+  "/games/pegg/core/libv86.js": "/__site__/games/pegg/core/libv86.js",
+  "/games/pegg/core/peg86.css": "/__site__/games/pegg/core/peg86.css",
+  "/games/pegg/core/peg86.js": "/__site__/games/pegg/core/peg86.js",
+  "/games/pegg/core/seabios.bin": "/__site__/games/pegg/core/seabios.bin",
+  "/games/pegg/core/v86-fallback.wasm": "/__site__/games/pegg/core/v86-fallback.wasm",
+  "/games/pegg/core/v86.wasm": "/__site__/games/pegg/core/v86.wasm",
+  "/games/pegg/core/vgabios.bin": "/__site__/games/pegg/core/vgabios.bin",
+  "/games/pegg/extreme/index.html": "/index.html",
+  "https://truffled.lol/games/pegg/core/libv86.js": "/__site__/games/pegg/core/libv86.js",
+  "https://truffled.lol/games/pegg/core/peg86.css": "/__site__/games/pegg/core/peg86.css",
+  "https://truffled.lol/games/pegg/core/peg86.js": "/__site__/games/pegg/core/peg86.js",
+  "https://truffled.lol/games/pegg/core/seabios.bin": "/__site__/games/pegg/core/seabios.bin",
+  "https://truffled.lol/games/pegg/core/v86-fallback.wasm": "/__site__/games/pegg/core/v86-fallback.wasm",
+  "https://truffled.lol/games/pegg/core/v86.wasm": "/__site__/games/pegg/core/v86.wasm",
+  "https://truffled.lol/games/pegg/core/vgabios.bin": "/__site__/games/pegg/core/vgabios.bin",
+  "https://truffled.lol/games/pegg/extreme/index.html": "/index.html"
+}
