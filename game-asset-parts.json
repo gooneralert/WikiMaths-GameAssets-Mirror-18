@@ -1,0 +1,154 @@
+{
+  "mirror/peggle-extreme/core/reactos.img": {
+    "size": 734003200,
+    "parts": [
+      {
+        "path": "mirror/peggle-extreme/core/reactos.img.part001",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/peggle-extreme/core/reactos.img.part002",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/peggle-extreme/core/reactos.img.part003",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/peggle-extreme/core/reactos.img.part004",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/peggle-extreme/core/reactos.img.part005",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/peggle-extreme/core/reactos.img.part006",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/peggle-extreme/core/reactos.img.part007",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/peggle-extreme/core/reactos.img.part008",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/peggle-extreme/core/reactos.img.part009",
+        "size": 14003200
+      }
+    ]
+  },
+  "mirror/peggle-extreme/state.bin": {
+    "size": 548849500,
+    "parts": [
+      {
+        "path": "mirror/peggle-extreme/state.bin.part001",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/peggle-extreme/state.bin.part002",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/peggle-extreme/state.bin.part003",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/peggle-extreme/state.bin.part004",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/peggle-extreme/state.bin.part005",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/peggle-extreme/state.bin.part006",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/peggle-extreme/state.bin.part007",
+        "size": 8849500
+      }
+    ]
+  },
+  "mirror/portal-2/chunks/background.data": {
+    "size": 360813966,
+    "parts": [
+      {
+        "path": "mirror/portal-2/chunks/background.data.part001",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/portal-2/chunks/background.data.part002",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/portal-2/chunks/background.data.part003",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/portal-2/chunks/background.data.part004",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/portal-2/chunks/background.data.part005",
+        "size": 813966
+      }
+    ]
+  },
+  "mirror/portal-2/chunks/common.data": {
+    "size": 1043806823,
+    "parts": [
+      {
+        "path": "mirror/portal-2/chunks/common.data.part001",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/portal-2/chunks/common.data.part002",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/portal-2/chunks/common.data.part003",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/portal-2/chunks/common.data.part004",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/portal-2/chunks/common.data.part005",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/portal-2/chunks/common.data.part006",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/portal-2/chunks/common.data.part007",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/portal-2/chunks/common.data.part008",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/portal-2/chunks/common.data.part009",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/portal-2/chunks/common.data.part010",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/portal-2/chunks/common.data.part011",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/portal-2/chunks/common.data.part012",
+        "size": 53806823
+      }
+    ]
+  }
+}
